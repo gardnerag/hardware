@@ -1,0 +1,13 @@
+{
+    "Modbus": {
+        "host": "192.168.178.88",
+        "port": "502",
+        "noOfInBytes":"10",
+        "noOfOutBytes": "7"
+    },
+
+    "Hardware":{
+        "inBufferLength":"20",
+        "outBufferLength":"20"
+    }
+}

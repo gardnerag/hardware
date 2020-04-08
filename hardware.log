@@ -1,0 +1,2076 @@
+2020-04-07 17:28:45.641428 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:45.760925 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:45.879558 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:45.998174 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:46.116863 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:46.236054 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:46.355526 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:52.460326 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:52.581397 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:52.699160 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:52.819147 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:52.936187 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:53.053912 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:53.172525 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:53.292152 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:53.409660 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:53.529356 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:53.647621 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:53.766227 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:53.883858 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:54.002794 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:54.122041 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:54.241362 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:54.359438 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:54.476598 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:54.593741 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:54.710739 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:54.827841 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:54.944775 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:55.062148 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:55.179670 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:55.297914 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:55.416153 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:55.536232 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:55.655755 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:55.775121 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:55.894449 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:56.014517 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:56.135126 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:56.254800 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:56.374904 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:56.493974 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:56.613688 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:56.734027 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:56.853066 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:56.971337 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:57.090675 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:57.211132 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:57.330883 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:57.448633 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:57.569856 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:28:57.690013 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:00.445680 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:00.565147 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:00.683497 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:00.804090 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:00.922924 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:01.042128 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:01.162362 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:01.282163 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:01.400666 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:01.520459 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:01.641037 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:01.760915 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:01.879163 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:01.998520 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:02.117333 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:02.242540 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:02.361940 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:02.479879 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:02.598300 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:02.718143 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:02.839229 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:02.957373 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:03.074632 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:03.193919 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:03.311351 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:03.427935 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:03.545780 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:03.663931 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:03.783415 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:03.901180 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:04.019637 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:04.138877 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:04.258491 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:04.378031 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:04.499073 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:04.618958 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:04.739200 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:04.859052 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:04.977679 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:05.097393 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:05.217226 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:05.337489 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:05.455695 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:05.575039 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:05.694795 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:05.814572 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:05.932537 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:06.052642 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:06.172474 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:06.290810 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:06.409726 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:06.529783 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:06.649096 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:06.769785 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:06.889200 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:07.010004 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:07.130276 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:07.250244 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:07.370162 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:07.488844 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:07.609197 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:07.728855 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:07.847408 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:07.965642 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:08.085934 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:08.205155 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:08.325135 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:08.443323 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:08.562419 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:08.682422 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:08.801949 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:08.921330 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:09.041397 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:11.761943 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:11.881402 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:11.998747 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:12.117363 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:12.236578 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:12.356053 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:12.474455 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:12.593986 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:12.713763 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:12.833155 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:12.952486 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:13.071999 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:13.191174 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:13.310237 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:13.428045 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:13.546188 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:13.666385 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:13.786305 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:13.904536 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:14.023596 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:14.144203 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:14.264441 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:14.383643 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:14.502630 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:14.622131 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:14.741819 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:14.860018 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:14.977176 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:15.097088 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:15.216601 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:15.335528 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:15.453701 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:15.573671 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:15.694507 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:15.811949 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:15.930240 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:16.047681 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:16.164856 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:16.282229 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:16.399247 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:16.517593 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:16.637141 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:16.757192 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:16.877381 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:16.996713 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:17.116464 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:17.235588 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:17.355495 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:17.473408 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:17.592831 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:17.713080 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:17.832853 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:17.951734 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:18.071668 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:18.190524 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:18.309818 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:18.428375 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:18.547041 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:18.667090 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:18.786045 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:18.905122 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:19.025029 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:19.144187 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:19.264368 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:19.383920 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:19.502330 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:19.622014 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:19.741827 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:19.861186 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:19.980215 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:20.100440 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:20.219499 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:20.338346 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:20.456758 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:20.576015 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:20.695327 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:20.814920 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:20.934870 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:21.053762 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:21.172964 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:21.291990 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:21.411394 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:21.531747 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:21.650904 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:21.770639 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:21.890394 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:22.008746 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:22.127986 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:22.246823 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:22.365999 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:22.484003 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:22.604026 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:22.723355 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:22.843034 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:22.961220 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:23.081503 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:23.202177 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:23.321515 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:23.440982 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:23.561007 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:23.680924 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:23.800815 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:23.919016 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:24.037461 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:24.155984 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:24.275722 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:24.395599 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:24.513979 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:24.633037 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:24.753091 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:24.871500 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:24.989248 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:25.108080 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:25.227271 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:25.347214 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:25.464976 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:25.585347 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:25.705820 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:25.825904 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:25.945400 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:26.064406 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:26.183519 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:26.303133 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:26.423550 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:26.543601 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:26.662547 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:26.782671 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:26.902991 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:27.022004 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:27.141266 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:27.260899 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:27.380333 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:27.498593 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:27.617966 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:27.738132 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:27.857393 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:27.975790 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:28.095468 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:28.214489 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:28.335459 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:28.454837 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:28.574210 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:28.694492 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:28.813228 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:28.933413 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:29.054615 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:29.173703 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:29.292808 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:29.411505 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:29.529597 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:29.649052 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:29.767658 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:29.887910 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:30.005874 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:30.125993 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:30.245837 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:30.365326 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:30.483252 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:30.602906 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:30.721738 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:30.841449 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:30.960648 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:31.080384 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:31.199860 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:31.320155 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:31.440298 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:31.560706 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:31.680336 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:31.800352 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:31.919781 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:32.040597 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:32.160515 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:32.280026 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:32.399897 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:32.517896 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:32.637735 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:32.758049 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:32.878467 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:32.996810 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:33.117140 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:33.237977 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:33.357812 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:33.479647 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:33.599312 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:33.719099 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:33.838392 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:33.956211 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:34.075100 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:34.195390 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:34.315197 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:34.435067 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:34.554322 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:34.673648 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:34.793399 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:34.913454 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:35.032614 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:35.151129 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:35.271229 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:35.390654 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:35.508585 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:35.628854 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:35.748829 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:35.868576 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:35.987006 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:36.107695 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:36.228210 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:36.348339 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:44.739465 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:44.860688 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:44.981801 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:45.103536 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:45.225734 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:45.348570 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:45.470521 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:45.591945 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:45.714233 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:45.836396 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:45.959408 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:46.080953 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:46.203565 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:46.326582 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:46.448961 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:46.570212 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:46.693393 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:46.816140 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:46.937314 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:47.058305 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:47.179260 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:47.299503 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:47.419944 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:47.539967 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:47.660750 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:47.780647 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:47.901946 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:48.023446 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:48.146249 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:48.268325 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:48.391776 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:48.513588 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:48.636183 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:48.758247 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:48.880916 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:49.001940 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:49.124162 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:49.246438 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:49.368679 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:49.490926 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:49.613675 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:49.735226 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:49.856508 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:49.979000 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:50.102323 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:50.224883 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:50.346895 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:50.469648 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:50.594777 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:50.718074 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:50.840203 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:50.961884 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:51.082649 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:51.204724 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:51.328019 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:51.451561 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:51.573104 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:51.696040 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:51.817984 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:51.940475 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:52.061595 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:52.183856 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:52.307249 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:52.430203 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:52.551196 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:52.673681 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:52.796518 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:52.921721 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:53.041760 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:53.164503 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:53.286775 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:53.409600 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:53.531407 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:53.653662 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:53.777072 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:53.898472 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:54.020208 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:54.142338 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:54.264833 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:54.386767 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:54.508321 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:54.630629 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:54.753112 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:54.875317 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:54.997860 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:55.119803 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:55.241947 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:55.364185 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:55.487173 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:55.608140 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:55.730974 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:55.853721 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:55.976499 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:56.098688 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:57.918119 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:58.038956 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:58.159621 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:58.281973 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:58.404593 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:58.525449 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:58.647591 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:58.770305 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:58.892702 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:59.014525 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:59.136658 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:59.259684 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:59.381726 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:59.504479 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:59.626625 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:59.749856 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:59.872646 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:29:59.996185 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:00.118827 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:00.241001 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:00.362786 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:00.484877 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:00.606354 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:00.736368 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:00.856947 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:00.977211 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:01.097084 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:01.217652 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:01.338497 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:01.458367 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:01.578775 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:01.701415 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:01.824261 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:01.946349 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:02.066527 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:02.189065 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:02.311645 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:02.435929 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:02.557014 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:02.679770 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:02.802865 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:02.925163 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:03.046545 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:03.169198 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:03.292074 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:03.413946 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:03.535746 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:03.658665 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:03.781075 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:03.902272 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:04.023983 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:04.145762 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:04.267730 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:04.390393 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:04.512368 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:04.635291 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:04.756680 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:04.879282 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:05.000967 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:05.124074 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:05.247019 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:05.371298 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:07.087080 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:07.209419 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:07.330984 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:07.452657 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:07.578687 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:07.699560 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:07.822202 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:07.943470 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:08.064024 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:08.185041 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:08.309230 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:08.431003 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:08.552032 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:08.674968 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:08.797894 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:08.921858 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:09.043621 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:09.166740 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:09.289186 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:09.411939 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:09.534142 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:09.656573 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:09.779999 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:09.901194 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:10.022225 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:10.143197 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:10.265446 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:10.387652 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:10.509119 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:10.630514 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
+2020-04-07 17:30:10.751461 In hardwareModbus.readMultipleAddresses() 
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+address: 0
+
